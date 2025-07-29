@@ -1,6 +1,6 @@
 # 💻 Laptop Price Prediction using Machine Learning
 
-![Laptop Price Prediction](Photo_of_Project)
+![Laptop Price Prediction](Photo_of_Project.png)
 
 This project predicts the price of a laptop based on its specifications using a regression machine learning model. It features a **Streamlit web app** where users can select laptop configurations and get instant price predictions.
 
